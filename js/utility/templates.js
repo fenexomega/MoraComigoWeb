@@ -1,0 +1,1 @@
+angular.module("templates").run(["$templateCache", function($templateCache) {$templateCache.put("app.html","<h2>Página Inicial</h2>\n");}]);
